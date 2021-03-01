@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "node-pid-controller": "^1.0.1",
-    "three": "^0.113.2",
+    "three": "^0.125.0",
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.11"
   }
